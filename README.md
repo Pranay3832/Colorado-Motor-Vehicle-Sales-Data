@@ -45,4 +45,4 @@ This project analyzes historical motor vehicle sales data from various counties 
 
 The EDA revealed distinct quarterly sales patterns and significant variations in sales volumes across different counties. The Ridge Regression model achieved an R-squared score of approximately **0.93** on the test set, indicating a good fit for predicting sales based on the selected features.
 
-Made By: Pranay Kudale
+Made By: Pranav Ghadge
